@@ -17,7 +17,7 @@ To get started with this authentication system, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/authentication-system.git
+git clone [https://github.com/sraveshnandan/-SIMPLE-AUTH-SERVER.git]
 cd authentication-system
 ```
 
